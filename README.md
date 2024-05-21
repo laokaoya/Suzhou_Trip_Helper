@@ -1,6 +1,6 @@
 # Tourists
 
-👋 Thank you for watching and reviewing my work —— Tourists！
+👋 Thank you for watching and reviewing my newest work —— Tourists！
 
 👀 Tourists aims to provide travelers with customized travel itineraries, including attractions, prices, nearby hotels, and restaurants. Travelers only need to select a few simple options to receive a personalized travel route. We hope it will meet and exceed your expectations!
 
