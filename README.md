@@ -1,4 +1,4 @@
-# Tourists
+# Suzhou_Travel_Guide v1
 
 👋 Thank you for watching and reviewing my newest work —— Tourists！
 
@@ -28,3 +28,25 @@
 
 
 💞️ We hope our work can effectively help tourists get a better travel experience.
+
+# Suzhou_Travel_Guide v2    (update 2024.9)
+## Why we make version II?
+- In the previous version, we were only able to obtain rough attraction information from the Weibo database. In Version II, after gathering various attractions and locations through the database, we aim to use web scraping from travel websites to acquire more detailed information.
+
+- We are abandoning the original rating-based recommendation system and shifting towards a model that learns the relationship between tourists' travel routes and personalized features within the database. This enhances generalization capabilities, making it easier to expand the app to a broader scope in future versions.
+
+- In Version I, restaurant recommendations were solely based on distance, which is unrealistic in practice. Therefore, in the new version, we plan to allow visitors to select their preferred types of cuisine, and we will comprehensively recommend the most suitable restaurants based on menus and reviews obtained from the web.
+
+- The new version aims to implement multilingual and personalized text interaction. Additionally, user input will no longer be limited to preset options; we aim to allow users to describe their personalized needs in natural language.
+
+## Project introduction
+- We primarily used SQL to build the database and perform related queries, Python for the main part of the development, and the PyQt5 framework to implement the user interface, with OpenStreetMap as the selected map.
+
+- We utilized the large model algorithm framework from Crew AI, leveraging multiple agents and OpenAI's English language model to enhance the precision and personalization of the recommendation algorithm. LINK：https://github.com/joaomdmoura/CrewAI/wiki 
+
+- We established five agents to handle five tasks, which are: ① Collecting attraction information ② Collecting restaurant information ③ Planning daily itineraries ④ Visualizing the map ⑤ Adding map elements and improving layout. These tasks were connected through a sequential process to achieve the final map visualization results.
+
+
+
+
+
