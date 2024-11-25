@@ -26,7 +26,6 @@
 
 ![image](https://github.com/laokaoya/Tourists/assets/140779724/15ada159-43b0-49a7-b45b-1b3d26292876)
 
-
 💞️ We hope our work can effectively help tourists get a better travel experience.
 
 # Suzhou_Travel_Guide v2    (update 2024.9)
@@ -46,7 +45,12 @@
 
 - We established five agents to handle five tasks, which are: ① Collecting attraction information ② Collecting restaurant information ③ Planning daily itineraries ④ Visualizing the map ⑤ Adding map elements and improving layout. These tasks were connected through a sequential process to achieve the final map visualization results.
 
+## Green Tourism Focus
+- In Version II of the Suzhou Travel Guide, we have consciously integrated green tourism principles into the system to promote sustainable travel. With increasing concerns over the environmental impacts of tourism, we aim to optimize visitor flows and reduce transportation-related carbon emissions. By recommending eco-friendly travel routes and public transportation options, we encourage visitors to choose more sustainable modes of transportation.
 
+- Additionally, the personalized restaurant recommendations now include options that prioritize sustainability, such as eco-friendly dining establishments and those promoting local, organic, or plant-based cuisine. This approach not only enhances the overall tourist experience but also supports Suzhou's efforts to minimize the environmental footprint of its tourism industry.
+
+- By aligning the app with the growing demand for sustainable tourism, we aim to create a solution that encourages travelers to make greener choices, contributing to both the local economy and the preservation of Suzhou’s cultural and natural heritage.
 
 
 
